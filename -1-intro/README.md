@@ -61,15 +61,12 @@ They are of two types.
 - Low-level Languages
 - High-level Languages
 
-| Low-level Languages                     | High-level Languages               |
-| :-------------------------------------- | :--------------------------------- |
-| Understood by Machines                  | Understood by programmers          |
-| Close 0's and 1's.                      | Includes human languages keywords. |
-| Machine Dependent (Machine code runs    | Machine Independent (It can run    |
-| according to its hardware architecture) | on any hardware architecture)      |
-| Executes quickly                        | Executes slowly because it         |
-|                                         | requires translator program.       |
-| Difficult to write, debug, modify and   | Easy to write, debug, read, modify |
-| understand                              | and understand                     |
-| It's called machine code.               | It's called source code.           |
-| Assembly Language, Binary Language      | C++, Python, JavaScript. etc.      |
+| Low-level Languages                                                          | High-level Languages                                          |
+| :--------------------------------------------------------------------------- | :------------------------------------------------------------ |
+| Understood by Machines                                                       | Understood by programmers                                     |
+| Close 0's and 1's.                                                           | Includes human languages keywords.                            |
+| Machine Dependent (Machine code runs according to its hardware architecture) | Machine Independent (It can run on any hardware architecture) |
+| Executes quickly                                                             | Executes slowly because it requires translator program.       |
+| Difficult to write, debug, modify and understand.                            | Easy to write, debug, read, modify and understand             |
+| It's called machine code.                                                    | It's called source code.                                      |
+| Assembly Language, Binary Language                                           | C++, Python, JavaScript. etc.                                 |
