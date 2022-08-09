@@ -1,8 +1,8 @@
-# Introduction
+# How Computer Works?
 
 ## Table Of Contents
-- [Introduction](#introduction)
-  - [Table Of Contents](#table-of-contents)
+
+- Table Of Contents
     - [Computers](#computers)
       - [Why we use Computers](#why-we-use-computers)
       - [Reasons to use Computers](#reasons-to-use-computers)
@@ -12,6 +12,9 @@
     - [Programming Language](#programming-language)
       - [How do we communicate Computers?](#how-do-we-communicate-computers)
       - [Types of Programming Languages](#types-of-programming-languages)
+    - [Language Translators](#language-translators)
+      - [Compiler](#compiler)
+      - [Interpreter](#interpreter)
 
 ### Computers
 #### Why we use Computers
@@ -70,3 +73,7 @@ They are of two types.
 | Difficult to write, debug, modify and understand.                            | Easy to write, debug, read, modify and understand             |
 | It's called machine code.                                                    | It's called source code.                                      |
 | Assembly Language, Binary Language                                           | C++, Python, JavaScript. etc.                                 |
+
+### Language Translators
+#### Compiler
+#### Interpreter
