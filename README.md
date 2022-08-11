@@ -1,4 +1,4 @@
-# learn-js
+# Learn JavaScript
 
 ## Table of Contents
 - [0. How Computer Works?](0-how-computer-works/README.md)
