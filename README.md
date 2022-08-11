@@ -31,8 +31,8 @@
   - [`alert()`](2-display-message/2.1-alert)
   - [`console.log()`](2-display-message/2.2-console.log)
   - [`document.write()`](2-2-display-message/2.3-document.write)
-- [5. Variables](3-variables)
-- [6. Datatypes](4-datatypes)
+- [3. Variables](3-variables)
+- [4. Datatypes](4-datatypes)
 ## Countributions
 Countributions are always welcome:
 - Fork this repository.
