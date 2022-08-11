@@ -1,18 +1,18 @@
 # Introduction to JavaScript
 
-<details>
-<summary>Table of Contents</summary>
-<ul>
-<li>History of JavaScript</li>
-<ul>
-  <li><a href="#vision-of-marc-andreessen">Vision of Marc Andreessen</a></li>
-  <li><a href="#brendan-eich">Brendan Eich</a></li>
-  <ul>
-    <li><a href="#mocha-livescript-javascript">Mocha LiveScript JavaScript</a></li>
-  </ul>
-</ul>
-</ul>
-</details>
+## Table of Contents
+- [Vision of Marc Andreessen](#vision-of-marc-andreessen)
+- [Brendan Eich](#brendan-eich)
+  - [Mocha LiveScript JavaScript](#mocha-livescript-javascript)
+- [JScript from Microsoft](#jscript-from-microsoft)
+- [ECMAScript](#ecmascript)
+- [AJAX](#ajax)
+- [JavaScript Engine](#javascript-engine)
+- [JavaScript Libraries](#javascript-libraries)
+- [JQuery](#jquery)
+- [Single Page Applications](#single-page-applications)
+- [SPA Libraries and Frameworks](#spa-libraries-and-frameworks)
+- [Node.js](#node.js)
 
 ## Vision of Marc Andreessen
 - Only static pages were available on the internet.
@@ -43,7 +43,19 @@
 - From the beginning, JavaScript influences in competing browser by making it possible to make better UX/UI implementations with it.
 
 ## JScript from Microsoft
+- Microsoft was compelled to reverse-engineer JavaScript support into Internet Explorer as JScript in 1996.
+- There was implementation difference between JScript from that found in Netscape Navigator.
+- The same features created for both browser were not compatible on both browsers.
+- Double work was required by programmers to make a single website work on both browsers because of difference in implementations between the two languages.
+- Website started being tagged as "best viewed in Internet Explorer", "best viewed in Netscape".
+
 ## ECMAScript
+It was realized by Netscape that for an interactive, dynamic web to succedd, JavaScript have to be consistent across browsers.
+In November 1996, JavaScript was submitted by Netscape to ECMA International to carva out a standard specification which other browsers vendors could then implement based on the work done at Netscape.
+At first, JavaScript was given ECMA-262 identification number for standard.
+It was decided to create standard specifications to be followed by all web browsers.
+JavaScript was then opened to wider audience making its evolution better by giving it the voice of other potential implementers.
+
 ## AJAX
 ## JavaScript Engine
 ## JavaScript Libraries
