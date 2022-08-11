@@ -27,9 +27,12 @@
 - [Single Page Applications](1-history-&-intro-to-javascript/README.md#single-page-applications)
 - [SPA Libraries and Frameworks](1-history-&-intro-to-javascript/README.md#spa-libraries-and-frameworks)
 - [Node.js](1-history-&-intro-to-javascript/README.md#node.js)
-- [2. `alert()`](2-alert)
-- [3. `console.log()`](2-alert)
-- [4. `document.write()`](2-alert)
+- [2. Display Message](2-display-message)
+  - [`alert()`](2-display-message/2.1-alert)
+  - [`console.log()`](2-display-message/2.2-console.log)
+  - [`document.write()`](2-2-display-message/2.3-document.write)
+- [5. Variables](3-variables)
+- [6. Datatypes](4-datatypes)
 ## Countributions
 Countributions are always welcome:
 - Fork this repository.
