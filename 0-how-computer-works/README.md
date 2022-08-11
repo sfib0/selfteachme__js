@@ -1,20 +1,18 @@
 # How Computer Works?
 
 ## Table Of Contents
-
-- Table Of Contents
-    - [Computers](#computers)
-      - [Why we use Computers](#why-we-use-computers)
-      - [Reasons to use Computers](#reasons-to-use-computers)
-    - [Software](#software)
-      - [Why develop Software Applications?](#why-develop-software-applications)
-      - [Real World Problem - Software Solution](#real-world-problem---software-solution)
-    - [Programming Language](#programming-language)
-      - [How do we communicate Computers?](#how-do-we-communicate-computers)
-      - [Types of Programming Languages](#types-of-programming-languages)
-    - [Language Translators](#language-translators)
-      - [Compiler](#compiler)
-      - [Interpreter](#interpreter)
+- [Computers](#computers)
+  - [Why we use Computers](#why-we-use-computers)
+  - [Reasons to use Computers](#reasons-to-use-computers)
+- [Software](#software)
+  - [Why develop Software Applications?](#why-develop-software-applications)
+  - [Real World Problem - Software Solution](#real-world-problem---software-solution)
+- [Programming Language](#programming-language)
+  - [How do we communicate Computers?](#how-do-we-communicate-computers)
+  - [Types of Programming Languages](#types-of-programming-languages)
+- [Language Translators](#language-translators)
+  - [Compiler](#compiler)
+  - [Interpreter](#interpreter)
 
 ### Computers
 #### Why we use Computers
