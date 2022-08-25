@@ -41,3 +41,33 @@ console.log(y);
 // - Only declaration will leave the value undefined.
 var z;
 console.log(z); // undefined
+
+/*
+  Variable Naming Restrictions:
+  - Variable name can't contain spaces.
+  var my name = "John Doe"; // SyntaxError
+
+  - Variable name can't start with a number.
+  var 1name = "John Doe"; // SyntaxError
+
+  - Variable name can only contain letters, numbers, and dollar sign ($) and underscore (_).
+  var $name = "John Doe";
+  
+  - Variable name can't contain a reserved keyword.
+  var for = "John Doe"; // SyntaxError
+*/
+
+// Variable Legal Names:
+var name = 'John Doe';
+var _name = 'John Doe';
+var $name = 'John Doe';
+var name1 = 'John Doe';
+var name_1 = 'John Doe';
+var name$1 = 'John Doe';
+
+// Variable Illegal Names:
+// var 1name = 'John Doe'; // SyntaxError
+// var for = 'John Doe'; // SyntaxError
+// var my name = 'John Doe'; // SyntaxError
+// var my-name = 'John Doe'; // SyntaxError
+// var my#name = 'John Doe'; // SyntaxError
