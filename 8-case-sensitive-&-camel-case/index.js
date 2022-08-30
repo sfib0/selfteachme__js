@@ -1,29 +1,22 @@
-/*
-  # Comments
-  - Comments are that part of the code which is not going to be executed.
-  - Programmer often need to commend some code.
-  - Comments may used to explain the code but its not recommended for this purpose.
-  - You may need to comment some code for testing and debugging purpose.
-  - There are two types of comments:
-    - Single line comment
-    - Multi line comment
-*/
+// Case-sensitive
+// The following variables are not same:
+var apple = "🍎";
+var Apple = "🍎";
 
-// 1. Single line comment
+console.log(apple);
+console.log(Apple);
 
-// The following line will not be executed.
-// console.log('Hello World');
+// # camelCase
+// - When an application grows, then variable name
+// needs to be more understandable.
+// - For example, you may need to make a variable
+// for Authentication Token.
+// - It will be good if we name it like:
+// `authenticationToken`
+// - The camelCase helps you to make you easily 
+// understand the variable containing two words
+// by using captial letter for each new word.
 
-/*
-  2. Multi line comment
-*/
-
-// The following lines will not be executed.
-/*
-  var a = 1;
-  var b = 2;
-  var c = a + b;
-  console.log(c);
-*/
-
-
+var authenticationToken = 'xxxxx-xxxxx-xxxxx';
+var totalUsers = 100;
+var userOS = 'MacOS';
