@@ -24,22 +24,22 @@ console.log(b); // 3
 // Increment-Prefix Form - It increases the value of the variable and returns the new value.
 let f = 1;
 let d = ++f;
-console.log(d); // 2
+console.log(f, d); // 2 2
 
 // Increment-Postfix Form - It increases the value of the variable and returns the old value.
 let g = 1;
 let e = g++;
-console.log(e); // 1
+console.log(g, e); // 2 1
 
 // Decrement-Prefix Form - It decreases the value of the variable and returns the new value.
 let h = 1;
 let i = --h;
-console.log(i); // 2
+console.log(h, i); // 0 0
 
 // Decrement-Postfix Form - It decreases the value of the variable and returns the old value.
 let j = 1;
 let k = j--;
-console.log(k); // 1
+console.log(j, k); // 0 1
 
 var num1 = 2;
 var num2 = 4;
