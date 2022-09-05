@@ -1,6 +1,9 @@
 # Learn JavaScript
 
-## Table of Contents
+<details default="close">
+
+<summary>Table of Lessons</summary>
+
 - [0. How Computer Works?](0-how-computer-works/README.md)
   - [Computers](0-how-computer-works/README.md#computers)
     - [Why we use Computers](0-how-computer-works/README.md#why-we-use-computers)
@@ -52,6 +55,9 @@
   - [Creating Arrays](15-arrays/19.1-creating-arrays)
   - [Adding and removing elements](15-arrays/19.2-adding-removing-elements)
   - [Removing, Inserting and Extracating elements](15-arrays/19.3-removing-insertings-extracting-elements)
+  
+</details>
+
 ## Countributions
 Countributions are always welcome:
 - Fork this repository.
