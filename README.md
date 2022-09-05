@@ -15,18 +15,18 @@
     - [Compiler](0-how-computer-works/README.md#compiler)
     - [Interpreter](0-how-computer-works/README.md#interpreter)
 - [1. History & Intro to JavaScript](1-history-&-intro-to-javascript/README.md)
-- [Vision of Marc Andreessen](1-history-&-intro-to-javascript/README.md#vision-of-marc-andreessen)
-- [Brendan Eich](1-history-&-intro-to-javascript/README.md#brendan-eich)
-  - [Mocha LiveScript JavaScript](1-history-&-intro-to-javascript/README.md#mocha-livescript-javascript)
-- [JScript from Microsoft](1-history-&-intro-to-javascript/README.md#jscript-from-microsoft)
-- [ECMAScript](1-history-&-intro-to-javascript/README.md#ecmascript)
-- [AJAX (Incomplete)](1-history-&-intro-to-javascript/README.md#ajax)
-- [JavaScript Engine (Incomplete)](1-history-&-intro-to-javascript/README.md#javascript-engine)
-- [JavaScript Libraries (Incomplete)](1-history-&-intro-to-javascript/README.md#javascript-libraries)
-- [JQuery (Incomplete)](1-history-&-intro-to-javascript/README.md#jquery)
-- [Single Page Applications (Incomplete)](1-history-&-intro-to-javascript/README.md#single-page-applications)
-- [SPA Libraries and Frameworks (Incomplete)](1-history-&-intro-to-javascript/README.md#spa-libraries-and-frameworks)
-- [Node.js (Incomplete)](1-history-&-intro-to-javascript/README.md#node.js)
+  - [Vision of Marc Andreessen](1-history-&-intro-to-javascript/README.md#vision-of-marc-andreessen)
+  - [Brendan Eich](1-history-&-intro-to-javascript/README.md#brendan-eich)
+    - [Mocha LiveScript JavaScript](1-history-&-intro-to-javascript/README.md#mocha-livescript-javascript)
+  - [JScript from Microsoft](1-history-&-intro-to-javascript/README.md#jscript-from-microsoft)
+  - [ECMAScript](1-history-&-intro-to-javascript/README.md#ecmascript)
+  - [AJAX (Incomplete)](1-history-&-intro-to-javascript/README.md#ajax)
+  - [JavaScript Engine (Incomplete)](1-history-&-intro-to-javascript/README.md#javascript-engine)
+  - [JavaScript Libraries (Incomplete)](1-history-&-intro-to-javascript/README.md#javascript-libraries)
+  - [JQuery (Incomplete)](1-history-&-intro-to-javascript/README.md#jquery)
+  - [Single Page Applications (Incomplete)](1-history-&-intro-to-javascript/README.md#single-page-applications)
+  - [SPA Libraries and Frameworks (Incomplete)](1-history-&-intro-to-javascript/README.md#spa-libraries-and-frameworks)
+  - [Node.js (Incomplete)](1-history-&-intro-to-javascript/README.md#node.js)
 - [2. Display Message](2-display-message)
   - [`alert()`](2-display-message/2.1-alert)
   - [`console.log()`](2-display-message/2.2-console.log)
@@ -41,10 +41,21 @@
 - [10. BODMAS, Operator Precedence & Associativity](10-bodmas-operator-precedence-associativity)
 - [11. Increment, Decrement Operators](11-increment-decrement)
 - [12. Concatentation Strings](12-concatenation)
+- [13. Prompts](13-prompts)
+- [14. Conditional Rendering](14-conditional-rendering)
+  - [`if` statement](14-conditional-rendering/14.1-if-statements)
+  - [Comparison Operators](14-conditional-rendering/14.2-comparison-operators)
+  - [`if else` and `else if` statements](14-conditional-rendering/14.3-if-else-else-if-statements)
+  - [Conditional Operators](14-conditional-rendering/14.4-conditional-operators)
+  - [Nested `if` statements](14-conditional-rendering/14.5-if-statements-nested)
+- [15. Arrays](15-arrays)
+  - [Creating Arrays](15-arrays/19.1-creating-arrays)
+  - [Adding and removing elements](15-arrays/19.2-adding-removing-elements)
+  - [Removing, Inserting and Extracating elements](15-arrays/19.3-removing-insertings-extracting-elements)
 ## Countributions
 Countributions are always welcome:
 - Fork this repository.
-- Now, do the following
+- Now, do the following:
 ```bash
 # Clone the forked repository, replace {yourusername} with your GitHub username.
 git clone https://https://github.com/{yourusername}/learn-js
