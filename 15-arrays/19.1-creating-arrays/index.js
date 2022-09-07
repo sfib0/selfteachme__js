@@ -57,11 +57,6 @@ const MixedArray = [
   "World"
 ];
 
-// MixedArray has string value on index 0 and index
-// 5,
-// number value on index 1 and index 3,
-// and boolean value on index 2 and index 4.
-
 // - To assign a value to an array, we can first 
 // type the array name, then the index of the
 // value we want to assign, then the value we
@@ -75,10 +70,4 @@ const MixedArray = [
 // Right way:
 TenUSPresidents[10] = "James K. Polk";
 // TenUSPresidents now has 11 values.
-
-// - Its convention to use plural names for arrays.
-// For example, TenUSPresidents is a better name
-// than TenUSPresident.
-
-// - Same naming rules also apply to arrays.
 

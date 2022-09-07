@@ -1,7 +1,4 @@
 // # Comparison Operators
-// - The very first comparison operator which
-// you have heard in the previous step is 
-// the === operator. 
 // - The === operator is used to check if the 
 // value of the left hand-side variable is same 
 // as the value of the right hand-side variable. 
@@ -15,12 +12,7 @@ if (fullName === 'Albert' + ' ' + 'Einstein') {
   console.log('We were expecting you, Albert!');
 }
 
-// - In the above code, we have three const,
-// one is firstName which ask for firstName
-// and lastName which ask for lastName, and
-// fullName which is the concatenation of
-// firstName and lastName.
-// - Then we have if statement which checks if
+// - We have if statement which checks if
 // the fullName is equal to the value
 // 'Albert' followed by concatenation of
 // space and 'Einstein', if it is true then
@@ -34,22 +26,18 @@ if (fullName === 'Albert' + ' ' + 'Einstein') {
 
 console.log("Rose" === "rose")  // false
 
-// Another comparison operator is !== which
-// is the opposite of === operator. It checks
-// if the value of the left hand-side variable
-// is not same as the value of the right hand-
-// side variable.
+// !== operator checks if the value of the left 
+// hand-side variable is not same as the value 
+// of the right hand-side variable.
 
 const age = prompt('How old are you?');
 if (age !== 18) {
   console.log('You are not 18 years old!');
 }
 
-// In the above code, we have one const
-// which ask for age, and if statement which
-// checks if the age is not equal to 18, if
-// it is true then it will print to the
-// console 'You are not 18 years old!'.
+// if statement checks if the age is not 
+// equal to 18, if it is true then it will 
+// print to the console 'You are not 18 years old!'.
 
 // This operator (!==) is also case-sensitive
 // means value of the left hand-side variable 

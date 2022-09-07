@@ -1,8 +1,3 @@
-// # Conditional Operators
-// It would be more useful if we could put
-// multiple conditions in one if statement.
-// That is where conditional operators come in.
-
 // && - AND
 // && is used if we want both conditions at the
 // right and left side of the operator to be true.
@@ -44,8 +39,7 @@ if (weight > 100 || time < 6) {
   console.log('You are not a good runner!');
 }
 
-// In the above code, we have an if statement
-// which checks if weight is greater than 100
+// If statement checks if weight is greater than 100
 // or time is less than 6, if one of the
 // conditions is true then the code inside
 // the if statement will be executed, if
@@ -59,18 +53,15 @@ if (age > 65 || age < 21 && res === "U.S.") {
   console.log('Thanks for your service!');
 }
 
-// In the above code, we have an if statement
-// which checks if age is greater than 65 
+// If statement checks if age is greater than 65 
 // `age < 65` or `||` age is less than 21 
 // `age < 21` and `&&` res is equal to "U.S." 
 // `res === "U.S."`, if one of the conditions 
 // is true then the code inside the if statement 
 // will be executed. 
 
-// The above code created ambiguity, because
-// we are using `||` and `&&` together. We
-// can use parenthesis to make the code more
-// readable.
+// We can use parenthesis to overcome the 
+// ambiguity of the above code:
 
 // In the following code, if age is over 65
 // or age is under 21 and residency is in the

@@ -10,17 +10,14 @@ pets[4] = "Tiger";
 pets[5] = "Bear";
 
 // # unshift method
-
-// Now if we want to add elements to the beginning
-// of the array, we can use the `unshift` method:
+// Add elements to the beginning of the array, 
+// use the `unshift` method:
 
 pets.unshift("Bird", "Rabbit");
 
 // # splice method
-
-// If we want to add elements anywhere as well
-// as remove some elements that conflicts with
-// the specified index, we can use the `splice`
+// Add elements anywhere as well as remove some 
+// elements, we can use the `splice`
 // method:
 
 // ## Adding as well as removing elements

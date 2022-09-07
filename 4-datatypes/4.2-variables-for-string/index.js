@@ -2,13 +2,10 @@ var name = "John";
 name = "John Doe";
 console.log(name);
 
-// You can use double quotes or single quotes.
-// If you use single quotes, you can use double quotes inside the string.
-// If you use double quotes, you can use single quotes inside the string.
-// Using double quotes is good convention.
-
+// Using double quotes when you have single quotes in your string
 var message = "It's alright";
 console.log(message);
 
-var message = 'My mom said, "You will have to wake up early in the morning."';
-console.log(message);
+// Using single quotes when you have double quotes in your string.
+var messageTwo = 'My mom said, "You will have to wake up early in the morning."';
+console.log(messageTwo);

@@ -1,7 +1,5 @@
 // It would be more readable if do nested if
-// statements rather then putting multiple
-// conditions with multiple conditional operators
-// in one if statement.
+// statements.
 
 const marks = prompt('What is your marks?');
 
@@ -19,9 +17,7 @@ if (marks > 50) {
   console.log('You are FAIL!');
 }
 
-// Nest levels are identified by JavaScript
-// by the position of curly braces. The first
-// if statement have three blocks of code which
+// The first if statement have three blocks of code which
 // will be executed if the condition of the first
 // if statement is true (i.e. marks > 50). If
 // marks > 50 is false then none of the blocks

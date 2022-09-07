@@ -1,15 +1,12 @@
 /*
   # Expressions
-  - An expression is a combination of values, variables, and operators which
-  computes a value.
-  - Anything which will be evaluated to a value is an expression.
-  - The computation is called an evaluation.
+  - Anything after a `=` operator is an expression.
 */
 
 // For example:
-a = 1; 
-b = 2;
-a + b; // expression
-4 / 2; // expression
-"Hello" + "World"; // expression
+var a = 1;
+var b = 2;
+a = a + b; // a + b is an expression
+b = 2 / 2; // 2 / 2 is an expression
+var greetings = "Hello " + "World"; // "Hello " + "World" expression
 
