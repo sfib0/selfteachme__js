@@ -55,7 +55,21 @@
   - [Creating Arrays](15-arrays/19.1-creating-arrays)
   - [Adding and removing elements](15-arrays/19.2-adding-removing-elements)
   - [Removing, Inserting and Extracating elements](15-arrays/19.3-removing-insertings-extracting-elements)
-  
+- [16. loops](16-loops)
+  - [for loops](16-loops/16.1-for-loops)
+  - [Flags, booleans and array length](16-loops/16.2-flags-booleans-array-length)
+  - [Nested for loops](16-loops/16.3-nested-for-loops/)
+- [17. Changing Cases](17-changing-cases)
+- [18. Strings](18-strings)
+  - [Measuring String length and extracting string](18-strings/18.1-measuring-length-and-extracting-parts)
+  - [Finding String Segments](18-strings/18.2-finding-segments)
+  - [Finding Characters](18-strings/18.3-finding-characters)
+  - [Replacing Strings](18-strings/18.4-replacing-strings)
+- [19. Rounding Numbers](19-rounding-numbers)
+- [20. Generate random numbers](20-generate-random-number)
+- [21. Convert string to integer and float](21-convert-string-to-integer-float)
+- [22. Convert string to number and number to string](22-convert-string-to-number-number-to-string)
+- [23. Changing decimal length](23-changing-decimal-length)
 </details>
 
 ## Countributions
