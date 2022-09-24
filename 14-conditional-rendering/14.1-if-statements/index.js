@@ -7,17 +7,17 @@ const albertLastName = 'Einstein';
 const answer = prompt('What is the last name of Albert Einstein?');
 
 if (answer === albertLastName) {
-  alert('Correct!');
+  console.log('Correct!');
 }
 
-alert('Wrong!');
+console.log('Wrong!');
 
 // If the users is same as the value of
 // albertLastName variable, the code inside the if
 // statement will be executed. If the users not
 // equal to the albertLastName value, the code
 // inside the if statement will
-// be skipped and the alert('Wrong!'); function will be
+// be skipped and the console.log('Wrong!'); function will be
 // executed.
 //
 // The === is an operator used to check if the value of
