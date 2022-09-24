@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>document.getElementById(): Values</title>
+</head>
+
+<body>
+
+  <h3>#1</h3>
+  <form onsubmit="checkEmail('email')">
+    Email: <input type="text" id="email" />
+    <input type="submit" value="Submit" />
+  </form>
+
+  <h3>#2</h3>
+  <form>
+    ZIP: <br />
+    <input type="number" id="zip" onblur="fillCity();" /> <br />
+    City: <br />
+    <input type="text" id="city" />
+  </form>
+
+  <h3>#3</h3>
+  <p id="lorem">
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus at blandit nisi.
+    <a href="javascript:void(0);" onclick="expandLorem();">Click to read more</a>
+  </p>
+  <script defer src="./index.js"></script>
+</body>
+
+</html>
