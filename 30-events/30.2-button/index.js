@@ -1,0 +1,3 @@
+function greetUser() {
+  alert("Hi!");
+}
