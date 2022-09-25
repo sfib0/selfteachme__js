@@ -1,6 +1,7 @@
 # How Computer Works?
 
 ## Table Of Contents
+
 - [Computers](#computers)
   - [Why we use Computers](#why-we-use-computers)
   - [Reasons to use Computers](#reasons-to-use-computers)
@@ -15,13 +16,16 @@
   - [Interpreter](#interpreter)
 
 ### Computers
+
 #### Why we use Computers
-Before talking about programming languages, we first have to know why we use Computers? 
+
+Before talking about programming languages, we first have to know why we use Computers?
 Computers have become a part of our daily lives.
 We do many tasks from Computer.
 Computers are used for communication purposes, store and calculate data
 
 #### Reasons to use Computers
+
 - Efficiency
   - Time: Computers do tasks in seconds.
   - Labour: No labour work is needed.
@@ -36,12 +40,15 @@ Computers are used for communication purposes, store and calculate data
   - You can make calls, chat with friends, send emails, send photos and share interests.
 
 ### Software
+
 #### Why develop Software Applications?
+
 - To make Computers work, we make programs on computers which are called software.
 - Every software do solve our real world problems or fill our needs.
 - We automate our real world situations to software applications so that they can be done more effeciently, reliability and accurately.
 
 #### Real World Problem - Software Solution
+
 - Emails: Now, we can send emails with clicks from online email services like Gmail and Outlook rather than using postbox.
 - Data: Now, we can store our data with clicks by software tools like Excel or any database or Drive applications rather than mainting journals or books.
 - Networking: Now, we can chat with friends and much more from online website and apps rather than going to their houses everyday.
@@ -49,7 +56,9 @@ Computers are used for communication purposes, store and calculate data
 - Education: We can find books to read. We can search for any information.
 
 ### Programming Language
+
 #### How do we communicate Computers?
+
 - Computers can understand the language of 0's and 1's (binary).
 - Computers cannot understand our plain English.
 - This communication can be eliminate by programming languages.
@@ -58,7 +67,9 @@ Computers are used for communication purposes, store and calculate data
 - Programming Language is a set of instructions that commands computer to work according to it.
 
 #### Types of Programming Languages
+
 They are of two types.
+
 - Low-level Languages
 - High-level Languages
 
@@ -73,5 +84,7 @@ They are of two types.
 | Assembly Language, Binary Language                                           | C++, Python, JavaScript. etc.                                 |
 
 ### Language Translators
+
 #### Compiler
+
 #### Interpreter
