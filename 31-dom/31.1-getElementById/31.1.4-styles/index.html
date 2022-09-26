@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>document.getElementById(): styles</title>
+  <link rel="stylesheet" href="./index.css">
+</head>
+
+<body>
+
+  <h3>#1</h3>
+  <button id="button" class="link" style="margin: 2px;">Button</button>
+  <br /><br />
+  Type: <input id="type" value="margin" onchange="changeStyle('button', 'value', 'type');" />
+  <br /> <br />
+  Value: <input type="value" onchange="changeStyle('button', 'type', 'value');" id="value" value="9px" />
+  <br />
+  <script defer src="./index.js"></script>
+</body>
+
+</html>

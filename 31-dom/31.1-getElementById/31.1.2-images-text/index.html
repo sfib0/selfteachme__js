@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>document.getElementById(): Images, Text</title>
+</head>
+
+<style>
+  * {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+
+  .hidden {
+    display: none;
+  }
+
+  .paragraph {
+    font-size: 1.5em;
+    font-weight: bold;
+  }
+
+  .big {
+    font-size: 5em;
+  }
+</style>
+
+<body>
+  <h3>#1</h3>
+  <img id="sonic" src="sonic.gif" width="400" height="400" alt="Scared Sonic" onclick="makeInvisible();">
+
+  <h3>#2</h3>
+  <p id="p" class="paragraph" onclick="increaseSize();">Sonic The Hedgehog</p>
+
+  <h3>#3</h3>
+  <img src="1.png" width="200" height="200" id="charac" onclick="changePic();">
+  Character ID: <input type="text" id="charac-id" onchange="changePic();" />
+
+  <script defer src="./index.js"></script>
+</body>
+
+</html>
